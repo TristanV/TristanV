@@ -51,7 +51,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
     <li>Managing a software or data project requires developers and analysts to document their code and data.</li>
 </ul></details>
 
-+ <details><summary>Build ML model</summary><ul>
++ <details><summary>Build ML models</summary><ul>
     <li>I use libraries such as Scikit-learn and Keras, with Pytorch or Tensorflow.</li> 
     <li>Transfer learning with HuggingFace or other open models</li>
     <li>I use train-test-split and other folding techniques to tune hyperparameters</li>
@@ -61,7 +61,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
     <li>I build models locally or in cloud (MS Azure)</li>
 </ul></details>
 
-+ <details><summary>Deploy model into production environment</summary><ul>
++ <details><summary>Deploy models into production environment</summary><ul>
     <li>I deploy models in local area networks, servers or in cloud (MS Azure)</li>
 </ul></details>
 
@@ -98,6 +98,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
 - 💬💖 **NLP R&D** remains my beloved field
     - I care for symbolic Natural Language Processing: morphosyntax, syntax, dependencies and syntagmatic grammars, constraints formalisms, metagrammars, lexicology, corpus linguistics, semantics, ontologies.
     - With AI and Machine Learning algorithms, NLP can move to an industrial level, with AI language models, topic modeling, sentiment analysis, image classification, text-to-speech and speech-to-text processing, and plenty other business cases such as chatbots, translation, information retrieval in textual resources. Some of [my recent projects (in french)](https://tristanv.github.io) were dealing with these cases.
+    - 🎯 In the first age of AI, some NLP expert-systems based on deductive inference techniques were claimed to be artificially intelligent. However they were what one calls *mirrors automata* mimicing human language with low robustness and poor efficiency in fuzzy situations. These systems had at least an ambition to approach *human reasoning* skills. In todays AI, NLP actors are claiming to achieve intelligent tasks, with higher robustness and tolerance to lacunar information, but these tools remain compared to *speaking parrots* unable to process any logical deduction or to account for contextual realism. I would very like to get involved in **research projects where deduction, inference, and calculation, work hand in hand with language models**, moving the AI systems closer to **intelligent reasoning**.  
 
 - 🤟 Topics I enjoy as a hobby:
     - 🎸🎹 composing and playing music 
