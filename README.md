@@ -44,7 +44,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
     <li>Data visualization and visual exploration are fundamental for end-users in all business departments: from exploratory insights to key performance indicators, via visual dashboards for any team.</li>
 </ul></details>
 
-+ <details><summary>Write prod ready code</summary><ul>
++ <details><summary>Write production-ready code</summary><ul>
     <li>I have often dealt with critical production delivery concerns, with realtime or uninterrupted services constraints, for worldwide customers or health-care patients handling.</li>
     <li>In a collaborative workflow, developers, testers and beta testers are working on several versions of the same applications, each having its own environment.</li>
     <li>Software and Data operators have to work hand in hand with IT, system engineers and product owners to handle maintenance and production delivery schedule</li>
@@ -98,7 +98,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
 - 💬💖 **NLP R&D** remains my beloved field
     - I care for symbolic Natural Language Processing: morphosyntax, syntax, dependencies and syntagmatic grammars, constraints formalisms, metagrammars, lexicology, corpus linguistics, semantics, ontologies.
     - With AI and Machine Learning algorithms, NLP can move to an industrial level, with AI language models, topic modeling, sentiment analysis, image classification, text-to-speech and speech-to-text processing, and plenty other business cases such as chatbots, translation, information retrieval in textual resources. Some of [my recent projects (in french)](https://tristanv.github.io) were dealing with these cases.
-    - 🎯 In the first age of AI, some NLP expert-systems based on deductive inference techniques were claimed to be artificially intelligent. However they were what one calls *mirrors automata* mimicing human language with low robustness and poor efficiency in fuzzy situations. These systems had at least an ambition to approach *human reasoning* skills. In todays AI, NLP actors are claiming to achieve intelligent tasks, with higher robustness and tolerance to lacunar information, but these tools remain compared to *speaking parrots* unable to process any logical deduction or to account for contextual realism. I would very like to get involved in **research projects where deduction, inference, and calculation, work hand in hand with language models**, moving the AI systems closer to **intelligent reasoning**.  
+    - 🎯 In the first age of AI, some NLP expert-systems based on deductive inference techniques were claimed to be artificially intelligent. However they were what one calls *mirrors automata* mimicing human language with low robustness and poor efficiency in fuzzy situations. These systems had at least an ambition to approach *human reasoning* skills. In todays AI, NLP actors are claiming to achieve intelligent tasks, with higher robustness and tolerance to lacunar information, but these tools remain compared to *speaking parrots* unable to process any logical deduction or to account for contextual realism. 🏹 I would like to get involved in **hybrid research projects where deduction, inference, and calculation, work hand in hand with AI language models**, moving AI systems closer to **intelligent reasoning**.  
 
 - 🤟 Topics I enjoy as a hobby:
     - 🎸🎹 composing and playing music 
