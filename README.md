@@ -72,7 +72,7 @@ Taking the best from my previous experiences and recent training paths, I aim at
 
 + <details><summary>Present results</summary><ul>
     <li>Documentation</li>
-    <li>Progression reporting to product owners and stakeholders, with agile / scrum / stories best-practices in mind/li>
+    <li>Progression reporting to product owners and stakeholders, with agile / scrum / stories best-practices in mind</li>
     <li>I design dashboards according to business departments requirements</li>
     <li>I develop data visualization and visual exploration frontends for several users according to their jobs and requirements: Jupyter Notebooks, Voilà!, Streamlit, Flask</li>    
     <li>Further on, I am also keen on publishing R&D results in academic or business contexts</li>
@@ -106,7 +106,14 @@ Taking the best from my previous experiences and recent training paths, I aim at
     - 💎 stone balancing
     - ☕ reading and writing technology watch content  
 
-## 📫 Some links
+- ✍ Recent data science posts on medium.com
+ 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tristanv/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tristanv/0" alt="Recent Article on medium 0"></img></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tristanv/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tristanv/1" alt="Recent Article on medium 1"></img></a>   
+
+
+## 📫 Some more links so you can read about me and contact me
 - 🏡 My **portfolio** and **resume** (in french): https://tristanv.github.io
 - 🤝 My **collaborative space** for public and private projects : https://github.com/TristanV
 - 🔗 My **professional network** : https://www.linkedin.com/in/tristan-vanrullen/
