@@ -2,9 +2,9 @@
 ## 🖐 Hello, I'm Tristan Vanrullen, ➰ *life-long learning* AI engineer and data manager
 
 
-My **AI Engineer** degree covers not only data analysis, machine learning and deep learning, but also AI related cloud architectures and ethical considerations plus AI project management. To read more about the 11 AI projects developed along this path, and other former projects, please have a look at my [🏡 **portfolio** and **resume** (in french)](https://tristanv.github.io)
+My **AI Engineer** degree covers not only data analysis, machine learning and deep learning, but also AI related cloud architectures and ethical considerations plus AI project management. To read more about the 11 AI projects developed along this path, and other former projects, please have a look at my [🏡 **portfolio** and **resume** (in french)](https://tristanv.github.io) . All these projects are also available on my [OC AI Engineer Github (private) repository](https://github.com/TristanV/OCAIEngineer) (please contact me and send me your github user name so that I can grant you a full access to these repositories)
 
-🎯 In 2022 I started my fourth professional life when I graduated as 🎓*AI Engineer* (my field is also *ML Engineer*, *Data Analyst*, *Data Scientist* and *Data Manager*)! This is my natural evolution after my three former lives : 
+🎯 In 2022 I started my fourth professional life when I graduated as 🎓*AI Engineer* (my field is also *ML Engineer*, *Data Analyst*, *Data Scientist* and *Data Manager*)! This is my natural evolution after my three former professional lives : 
 
 - <details><summary>(2005-2012) As a PhD, researcher and lecturer in 💻<em>Computer Science</em> and 💬<em>Natural Language Processing</em>.</summary>With research in Computer Science and NLP, I found my deepest calling and the activity in which I recognize myself the most. <a href="https://www.researchgate.net/profile/Tristan-Vanrullen">Find out more on Researchgate</a>. 🤖Artificial intelligence is now fully a part of research and industry in NLP, enabling the design of solutions for everyday business and great future innovations. Beyond my former skills in symbolic linguistics, it was therefore necessary to learn how to design machine learning and deep learning solutions for NLP. It is a great asset now to master both approaches.</details> 
 
